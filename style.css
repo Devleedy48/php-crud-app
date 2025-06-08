@@ -1,0 +1,26 @@
+ body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f8f8f8;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007BFF;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #f0f0f0;
+}
