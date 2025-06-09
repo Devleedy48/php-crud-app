@@ -1,4 +1,4 @@
- <?php include 'includes/header.php'; include 'includes/nav.php'; include 'db/config.php';
+<?php include 'includes/header.php'; include 'includes/nav.php'; include 'db/config.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $stmt = $pdo->prepare("INSERT INTO users (name, email) VALUES (?, ?)");
