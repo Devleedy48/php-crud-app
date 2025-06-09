@@ -1,3 +1,7 @@
-<p>Created by Devon Leedy</p>
+<footer class="footer">
+    <p>Created by Devon Leedy</p>
+</footer>
 </body>
 </html>
+
+
